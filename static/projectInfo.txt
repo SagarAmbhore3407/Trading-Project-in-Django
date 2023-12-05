@@ -1,0 +1,5 @@
+Project Info:
+
+superuser = 'admin'
+password = 'admin'
+
