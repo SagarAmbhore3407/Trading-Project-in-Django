@@ -3,3 +3,6 @@ Project Info:
 superuser = 'admin'
 password = 'admin'
 
+To upload file candle file:
+The file is saved to directory "File_to_Upload"
+
